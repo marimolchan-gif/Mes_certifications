@@ -8,11 +8,13 @@ Certification professionnelle validant les compétences en préparation, modéli
 
 <img width="1137" height="599" alt="image" src="https://github.com/user-attachments/assets/9e79b58b-b0cb-4d25-a68a-cd10823213b3" />
 
+
 2️⃣ **Google Business Intelligence Certificate — Coursera / Google**
 
 Certification professionnelle centrée sur la Business Intelligence, la conception de dashboards, la structuration des indicateurs et la transformation des données en insights actionnables. Elle renforce mes compétences en reporting décisionnel, data visualisation et création de supports d’analyse adaptés aux besoins des parties prenantes.
 
 <img width="777" height="601" alt="image" src="https://github.com/user-attachments/assets/3f360367-78c3-441d-ab34-7ecd145b8504" />
+
 
 3️⃣ **Build your first Machine Learning Pipeline using Dataiku — Coursera**
 
@@ -20,11 +22,13 @@ Projet guidé centré sur la création d’un premier pipeline de machine learni
 
 <img width="889" height="689" alt="image" src="https://github.com/user-attachments/assets/891b76bf-eca5-48a6-a012-5bc6a1d3a5f8" />
 
+
 4️⃣ **Dataiku Core Designer Certificate**
 
 Certification validant les bases de conception de workflows data dans Dataiku, de la préparation des données à la structuration de projets analytiques. Elle renforce mes compétences en data preparation, automatisation de traitements, logique de pipeline et utilisation d’outils no-code/low-code pour l’analyse de données.
 
 <img width="1035" height="714" alt="image" src="https://github.com/user-attachments/assets/7e11480c-7524-439b-a88a-f7c5d97a9c9d" />
+
 
 5️⃣ **Tableau Business Intelligence Analyst — Coursera / Tableau**
 
@@ -32,11 +36,14 @@ Certification professionnelle centrée sur l’analyse BI, la création de visua
 
 <img width="951" height="669" alt="image" src="https://github.com/user-attachments/assets/743f8869-3f30-401d-ba59-94ef9f80451b" />
 
+
 6️⃣ **AWS Certified Cloud Practitioner**
 
 Certification validant les fondamentaux du cloud AWS, les principaux services cloud et les concepts de base liés à l’architecture, à la sécurité et aux modèles de coûts. Elle complète mon profil data en renforçant ma compréhension des environnements cloud utilisés pour héberger, stocker, traiter et exploiter les données à grande échelle.
 
 <img width="1325" height="798" alt="image" src="https://github.com/user-attachments/assets/fdd485e4-d65f-476b-8fd3-1d549e2a6c1a" />
+
+----------------------------------------------------------------------
 
 7️⃣ **People Analytics — University of Pennsylvania / Wharton Online**
 
